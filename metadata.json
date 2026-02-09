@@ -1,0 +1,7 @@
+{
+  "name": "LocalStock - Hyper-Local Inventory Engine",
+  "description": "A world-class product discovery tool that matches user queries to local store inventories with real-time price comparisons and stock status.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
